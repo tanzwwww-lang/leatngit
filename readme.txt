@@ -4,5 +4,5 @@ tanzw are learning git
 append GPL
 Git has a mutable index called stage.
 1
-Creating a new branch is quick.
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
+12
